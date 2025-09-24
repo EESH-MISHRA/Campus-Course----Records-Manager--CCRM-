@@ -1,4 +1,6 @@
 #Campus-Course----Records-Manager--CCRM-
+
+
 So, um, CCRM stands for Campus Course & Records Manager. It’s basically a small console program written in Java that helps keep track of student-related stuff — like courses, grades, transcripts, all that academic paperwork colleges deal with.
 
 The idea was to make one place where you can manage everything in a neat way. Think of it like a little hub, but instead of clicking around in a big app, you just type commands in the console.
